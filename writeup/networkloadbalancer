@@ -2,3 +2,26 @@ Network Load Balancer
 
 What is a network load balancer and why it matters
 
+Where is the need coming from:
+
+Suppose you are developing a web application and you have one server. Over time you are doing well and the traffic is increasing in your website. Let's say you wish to add another
+resource so that you can manage the traffic. You'll need a way to manage the traffic between the existing resource and the new resource. You'll want to "balance" the "load" 
+between those resources so that chance of success is high. 
+Microsoft's definition for load balancing is pretty clear: 
+Load balancing refers to evenly distributing load (incoming network traffic) across a group of backend resources or servers.
+
+What is a load balancer: 
+
+A load balancer serves as the single point of contact for the clients. And the load balancer distributes incoming requets into multiple targets. Targerts are called "listeners". 
+If the client is making a significant amount of requests where the targets are running near maximum capacity, you can balance your targets by adding more.
+
+Load balancer needs to know the backend is healthy and up:
+
+When a load balancer receives a request, it then finds a target and attempts to make a tcp connection to this target, on the port specified for this target.
+
+
+How can a load balancer help with sudden traffic spikes?
+
+
+[1] https://docs.aws.amazon.com/elasticloadbalancing/latest/network/introduction.html
+
