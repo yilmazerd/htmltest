@@ -1,0 +1,20 @@
+When measuring softwrae team performance:
+
+Input -> Process -> Output
+
+Focusing on one of them doesn't work. 
+For instance, suppose you only measure number of lines or number of days per commit, you are still looking to the process.
+
+#1 Are the clients happy? (Did we deliver what the client asked for on time) 
+>> Do we have mechanisms in place to help the client if the system stops working
+
+#2 Can we keep the cients happy (Is our system at a place where we can quickly and reliably add more features)?
+>> For this we should take continous measures
+>> What is the amount of time I need to expect between my commit to deploy to production today? What was that time last year? 
+>> How long the client should wait for their request to become a product features
+
+#3 Is the team happy?
+>> Are we managing this working normal hours
+>> Are we learning things?
+
+
