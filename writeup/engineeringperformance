@@ -1,0 +1,16 @@
+Software engineers can achieve amazing things working alone yet for large scale projects, 
+for developing, iterating launching and supporting production applications you need teams. 
+Teams need to communicate, coordinate and work together. 
+
+
+It becomes more difficult to work as a team when members have hard time communicating with each other.
+
+Team Coordination Complexity
+Suppose Alex is working on a task himself and his manager decides this is too much for alex to work alone 
+and brings in Brenda. Now Alex needs to explain how things work to Brenda and manager needs to be involved 
+at some level to ensure Alex is actually explaning things to Brenda and the process for involving Brenda is
+wokring. Suppose after a while, Chris and Dianna need to also join to team. Now Manager, Alex and Brenda need 
+to work with Chris and Dianna to get them up to speed while also continuoung their commitments. Now if the team continous 
+to grow, the number of such communications will also increase. With the addition of project manager Thomas, organizing meetings
+and ensuring communicaion documents are in place can be standardized but now the manager, 
+Alex and Breanda (who now are lead engineers) need to work with Thomas and attend meetings together to up to speed the new members.
